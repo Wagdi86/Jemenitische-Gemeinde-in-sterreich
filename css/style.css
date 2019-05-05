@@ -79,7 +79,8 @@ body {
 }
 .jemen-text{
 	direction: rtl;
-	text-align: right
+	text-align: right;
+	float:right;
 }
 
 .chart {
